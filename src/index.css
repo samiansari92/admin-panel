@@ -461,7 +461,7 @@ width: 80px;
 .navbar-left {
   display: flex;
   align-items: center;
-  gap: 0.5rem;
+  gap: 0.8rem;
 }
 .navbar-right {
   display: flex;
@@ -473,11 +473,11 @@ width: 80px;
 
 .mobile-menu-btn {
   display: none;
-  background: rgba(255, 255, 255, 0.2);
+  background: rgba(255, 255, 255, 0.1);
   border: none;
   padding: 0.7rem;
   border-radius: 0.5rem;
-  color: var(--black);
+  color: var(--secondary-text);
   cursor: pointer;
   transition: var(--transition);
   z-index: 1000;
