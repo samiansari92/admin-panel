@@ -713,7 +713,7 @@ width: 80px;
   }
    .profile-menu {
     min-width: 250px;
-    right: -1.5rem;
+    right: 0;
   }
 }
 
@@ -724,7 +724,7 @@ width: 80px;
 
   .profile-menu {
     min-width: 250px;
-    right: -1.5rem;
+    right: 0;
   }
 }
 
